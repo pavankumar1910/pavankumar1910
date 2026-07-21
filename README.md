@@ -105,25 +105,7 @@ class PavanKumar:
 
 ---
 
-## 📊 &nbsp;GitHub Stats
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavankumar1910&theme=github_dark"/>
-
-<br/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavankumar1910&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavankumar1910&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavankumar1910&theme=github_dark"/>
-
-<br/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavankumar1910&theme=github_dark&utcOffset=5.5"/>
-
-</div>
-
----
 
 ## 📈 &nbsp;Activity Graph
 
